@@ -9,6 +9,7 @@ public class TestGit{
 	
 	public void helloWorld() {
 			System.out.println("Hello Feature1 branch");
+			System.out.println("Hello feature2 branch");
 		}
 }
 
